@@ -1,6 +1,6 @@
 ![LinkedIn banner](https://github.com/SnPreethi/SnPreethi/assets/170320349/525fc1fb-9e0c-408a-834c-5502630f01cf)
 
-<h1 align="center">printf("Hello World!👋 I am Preethi Somayajula.")</h1>
+<h1 align="center">print("Hello World!👋 I am Preethi Somayajula.")</h1>
 <h2 align="center">| Graduate | STEM | Professional |</h2>
 <h3 align="center">On the journey of unveiling data's story with AI-driven insights</h3>
 
