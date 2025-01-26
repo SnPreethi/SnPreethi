@@ -7,4 +7,4 @@
 ### About Me 💬
 <p align="justify">I recently graduated with a Bachelor's degree in Computer Science & Engineering, specializing in Artificial Intelligence and Machine Learning. During my academic journey, I explored the applications and methodologies of AI and ML, gaining comprehensive knowledge and hands-on experience. This specialization not only deepened my understanding of core computer science principles but also provided me with a firm foundation in the subject of AI and ML. I am passionate about leveraging this expertise to drive innovation and solve real-world challenges in the tech industry.</p>
 
-### Let's connect on 📫 <a href="https://www.linkedin.com/in/preethisomayajula/">LinkedIn</a>
+### Let's connect on 📫 <a href="https://www.linkedin.com/in/preethisomayajula/">LinkedIn</a> and <a href="https://x.com/sn_preethi_">X</a>.
