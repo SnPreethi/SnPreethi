@@ -1,4 +1,4 @@
-![LinkedIn banner](https://github.com/SnPreethi/SnPreethi/assets/170320349/525fc1fb-9e0c-408a-834c-5502630f01cf)
+![Untitled](https://github.com/user-attachments/assets/b5d6fdee-9ef8-4cc4-9616-63b3048557f6)
 
 <h1 align="center">print("Hello World!👋 I am Preethi Somayajula.")</h1>
 <h2 align="center">| Graduate | STEM | Professional |</h2>
